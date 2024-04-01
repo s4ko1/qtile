@@ -82,3 +82,4 @@ the name of the theme you want in a file named ```./config.json```:
     "theme": "material-ocean"
 }
 # qtile
+# qtile
